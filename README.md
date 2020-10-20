@@ -20,6 +20,6 @@
 <!-- .slide -->
 
 ## 我的一些文字
-- [Markdown 写作心得](https://wu-kan.cn/_posts/2020-01-18-Markdown%E5%86%99%E4%BD%9C%E5%BF%83%E5%BE%97/)
+- [Markdown 写作心得](https://CrayonQ7.github.io/_posts/2020-01-18-Markdown%E5%86%99%E4%BD%9C%E5%BF%83%E5%BE%97/)
 
 <!-- .slide vertical=true -->
