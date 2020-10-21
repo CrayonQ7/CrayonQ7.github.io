@@ -52,8 +52,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 href="http://m.qpic.cn/psc?/V10mw76T3a9aCZ/45NBuzDIW489QBoVep5mcareEDe3cBDpglLRq7xIGQ5mr3RUxyXfVXFzVBIm7MPwic.UDI9TxeJlYrDHPbgOALsY5Zuc9tNLNgsJiyBSPi4!/b&bo=QAFAAQAAAAADFzI!&rf=viewer_4"
               />
               <link
-                rel="shortcut
-                icon"
+                rel="shortcuticon"
                 href="http://m.qpic.cn/psc?/V10mw76T3a9aCZ/45NBuzDIW489QBoVep5mcTel2.ISasjnp2W3IfNXg*wCtiLrnYE54ZyrC6Mr7oeRppTPfOLJ6wpcHkcy6*V65UyoFyB86Orm9s8ReP27asQ!/b&bo=IAAgAAAAAAADFzI!&rf=viewer_4"
               />
             - | # 来自lanyon的页面样式，不要改
