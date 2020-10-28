@@ -149,11 +149,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/74559485_p1.webp);
+                  background-image: url(/assets/image/background.jpg);
                 }
                 @media (min-aspect-ratio: 2400/1850) {
                   .wrap {
-                    background-image: url(https://Mizuno-Ai.wu-kan.cn/pixiv/71932901_p0.webp);
+                    background-image: url(/assets/image/background.jpg);
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
@@ -217,7 +217,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
             disable: false # 是否不显示sidebar
             avatar: # 侧边栏显示的头像
               enable: true
-              img: http://m.qpic.cn/psc?/V10mw76T3a9aCZ/45NBuzDIW489QBoVep5mcareEDe3cBDpglLRq7xIGQ5mr3RUxyXfVXFzVBIm7MPwic.UDI9TxeJlYrDHPbgOALsY5Zuc9tNLNgsJiyBSPi4!/b&bo=QAFAAQAAAAADFzI!&rf=viewer_4 # 头像的地址
+              img: https://github.com/CrayonQ7/CrayonQ7.github.io/blob/master/assets/image/320.png # 头像的地址
             nav: # 导航部分的内容，你也可以自己增加文字、图标（来自fontawesome）和对应的链接
               - title: '<i class="fas fa-home fa-fw"></i> 首页'
                 href: /
@@ -606,7 +606,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var alipay = "https://qr.alipay.com/fkx11974nrfeds04icg7c83";
                 var paypal = "https://paypal.me/crayonQ7";
                 var myname = "CrayonQ7";
-                var profile = "http://m.qpic.cn/psc?/V10mw76T3a9aCZ/45NBuzDIW489QBoVep5mcareEDe3cBDpglLRq7xIGQ5mr3RUxyXfVXFzVBIm7MPwic.UDI9TxeJlYrDHPbgOALsY5Zuc9tNLNgsJiyBSPi4!/b&bo=QAFAAQAAAAADFzI!&rf=viewer_4";
+                var profile = "https://github.com/CrayonQ7/CrayonQ7.github.io/blob/master/assets/image/320.png";
                 var multilingual = true;
                 var myname_hans = "朱钦";
                 var myname_hant = "朱钦";
@@ -712,10 +712,6 @@ remote_theme: https://github.com/wu-kan/jekyll-theme-WuK@4.0.1 #使用固定版�
 
 readme_index: # 缺失index.md和index.html时，使用README.md代替之
   with_frontmatter: true # 支持带有yaml头的README
-
-webmaster_verifications: # <https://jekyll.github.io/jekyll-seo-tag/usage/>
-  google: YIKi1rBnyUaS-DMYiluseI5kZzTwjCkTFmKkSkMZDJk
-  baidu: szbTSfUGAB
 
 permalink: /:categories/:year-:month-:day-:title/ #生成文章的地址格式，我希望它和_posts目录下的格式一样
 # timezone: Asia/Shanghai # 解决githubpage显示时间不正确的问题，见<https://www.iana.org/time-zones>
