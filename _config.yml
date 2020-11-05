@@ -606,7 +606,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                 var alipay = "https://qr.alipay.com/fkx11974nrfeds04icg7c83";
                 var paypal = "https://paypal.me/crayonQ7";
                 var myname = "CrayonQ7";
-                var profile = "https://github.com/CrayonQ7/CrayonQ7.github.io/blob/master/assets/image/320.png";
+                var profile = "https://github.com/CrayonQ7/CrayonQ7.github.io/blob/master/assets/image/320.png?raw=true";
                 var multilingual = true;
                 var myname_hans = "朱钦";
                 var myname_hant = "朱钦";
