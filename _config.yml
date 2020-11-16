@@ -149,11 +149,11 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
                   background-position: 0% 0%;
                   background-repeat: no-repeat;
                   background-attachment: fixed;
-                  background-image: url(/assets/image/background.jpg);
+                  background-image: url(/assets/image/background_portrait.jpg);
                 }
-                @media (min-aspect-ratio: 2400/1850) {
+                @media (min-aspect-ratio: 4096/2417) {
                   .wrap {
-                    background-image: url(/assets/image/background_portrait.jpg);
+                    background-image: url(/assets/image/background.jpg);
                   }
                 }
                 .sidebar-overlay #sidebar-checkbox:checked ~ .wrap {
